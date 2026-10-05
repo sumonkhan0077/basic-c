@@ -11,5 +11,8 @@ int  main()
     printf("multiplication = %d\n" , mul);
     float div = a / b;
     printf("division = %f\n" , div);
+
+    
     return 0;
 }
+
